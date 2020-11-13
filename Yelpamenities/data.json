@@ -1,0 +1,81 @@
+{
+    "businessInfoItems": [
+        {
+            "providerUrl": null,
+            "label": "Yes",
+            "attributionText": null,
+            "icon": "24x24_reservation",
+            "title": "Takes Reservations"
+        },
+        {
+            "providerUrl": null,
+            "label": "No",
+            "attributionText": null,
+            "icon": "24x24_order",
+            "title": "Offers Delivery"
+        },
+        {
+            "providerUrl": null,
+            "label": "No",
+            "attributionText": null,
+            "icon": "24x24_shopping",
+            "title": "Offers Takeout"
+        },
+        {
+            "providerUrl": null,
+            "label": "Credit, Debit",
+            "attributionText": null,
+            "icon": "24x24_checkmark",
+            "title": "Accepted Cards"
+        },
+        {
+            "providerUrl": null,
+            "label": "Yes",
+            "attributionText": null,
+            "icon": "24x24_bicycle",
+            "title": "Bike Parking"
+        },
+        {
+            "providerUrl": null,
+            "label": "Yes",
+            "attributionText": null,
+            "icon": "24x24_kids",
+            "title": "Good for Children"
+        },
+        {
+            "providerUrl": null,
+            "label": "Yes",
+            "attributionText": null,
+            "icon": "24x24_groups",
+            "title": "Good for Groups"
+        },
+        {
+            "providerUrl": null,
+            "label": "Quiet",
+            "attributionText": null,
+            "icon": "24x24_sound_on",
+            "title": "Noise Level"
+        },
+        {
+            "providerUrl": null,
+            "label": "Full Bar",
+            "attributionText": null,
+            "icon": "24x24_nightlife",
+            "title": "Alcohol"
+        },
+        {
+            "providerUrl": null,
+            "label": "No",
+            "attributionText": null,
+            "icon": "24x24_outdoor_seating",
+            "title": "Outdoor Seating"
+        },
+        {
+            "providerUrl": null,
+            "label": "Yes",
+            "attributionText": null,
+            "icon": "24x24_television",
+            "title": "Has TV"
+        }
+    ]
+}
